@@ -1,4 +1,4 @@
-mport os,sys, argparse
+import os,sys, argparse
 import numpy as np
 from numpy.random import default_rng
 from astropy import units as u
